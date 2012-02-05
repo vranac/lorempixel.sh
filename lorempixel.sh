@@ -75,7 +75,7 @@ do
 
 	WGET_IMAGE=$IMAGE_NAME
 
-	if [[ CATEGORY != '0' ]];
+	if [[ $CATEGORY != '0' ]];
 		then
 		WGET_IMAGE=$WGET_IMAGE'-'$CATEGORY
 	fi
