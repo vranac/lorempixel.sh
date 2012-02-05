@@ -1,3 +1,16 @@
 lorempixel.sh
-
 =================
+
+This is a simple bash script that will help you download the images from lorempixel.com.
+
+
+Usage
+=================
+
+lorempixel.sh -w 600 -h 200 -r 5 -c sports -g
+
+The command above will dowonload 5 images from sports category that are grayscale and have size 600x200
+
+Use
+lorempixel.sh -i 
+for options
