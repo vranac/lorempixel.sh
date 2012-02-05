@@ -3,6 +3,8 @@ lorempixel.sh
 
 This is a simple bash script that will help you download the images from lorempixel.com.
 
+The scripts relies on wget.
+
 
 Usage
 =================
