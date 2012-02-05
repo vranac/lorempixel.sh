@@ -17,7 +17,7 @@ usage()
 cat << EOF
 usage: $0 options
 
-This script run the test1 or test2 over a machine.
+This script will download an image from the lorempixel.com with set width and height.
 
 OPTIONS:
    -i      Show this message
